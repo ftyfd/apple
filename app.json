@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/ftyfd/apple",
+  "repository": "https://github.com/ftyfd/apple",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
